@@ -1,0 +1,10 @@
+include <iostream>
+using namespace std;
+
+int main(){
+    //el universo
+
+    
+return 0;
+
+}
